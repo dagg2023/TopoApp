@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">TopoApp</string>
+    <string name="registrate">Registrarse</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="usuario">Usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="preguntar_password">Contraseña</string>
+    <string name="confirma_password">Confirmar controseña</string>
+    <string name="password_no_coincide">Las contraseñas no coinciden</string>
+    <string name="guardar">Guardar</string>
+    <string name="registro_usuario_exitoso">Usuario registrado exitosamente</string>
+    <string name="login_exitoso">Inicio de sesión exitoso</string>
+    <string name="Bienvenido">Bienvenido a TOPOAPP</string>
+    <string name="campo_vacio">Por favor completa los campos</string>
+    <string name="cerrar_sesion">Cerrar sesión</string>
+    <string name="logout_exitoso">Cierre de sesión exitoso</string>
+    <string name="login_incorrecto">Usuario o contraseña incorrectos</string>
+
+</resources>
